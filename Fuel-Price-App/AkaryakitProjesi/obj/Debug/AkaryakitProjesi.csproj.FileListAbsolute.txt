@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\bin\Debug\AkaryakitProjesi.exe.config
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\bin\Debug\AkaryakitProjesi.exe
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\bin\Debug\AkaryakitProjesi.pdb
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.Form1.resources
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.exe
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.pdb
+C:\Users\Lenovo\source\repos\AkaryakitProjesi\AkaryakitProjesi\obj\Debug\AkaryakitProjesi.Hareketler.resources
